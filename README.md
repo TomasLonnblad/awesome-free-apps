@@ -90,7 +90,7 @@
 - [FXSound](https://fxsound.com) - Boost sound quality, volume, and bass. Has a beautiful modern UI. 🪟 🟢 ⭐
 - [JACK Audio](https://jackaudio.org) - Audio server for routing and mixing sound between programs. 🪟 🍎 🐧
 - [EarTrumpet](https://eartrumpet.app) - Advanced volume control for Windows, offering app-specific audio management. 🪟
-- [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, and focus features to boost your productivity. 🪟 🟢
+- [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, & more to boost your productivity. 🪟 🟢
 
 ### Audio Players
 
