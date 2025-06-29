@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Friday, March 7, 2025 at 03:34:45 PM UTC -->
+<!-- AF-TOC : Sunday, June 29, 2025 at 09:55:20 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -88,7 +88,7 @@
 ## Audio
 
 - [FXSound](https://fxsound.com) - Boost sound quality, volume, and bass. Has a beautiful modern UI. 🪟 🟢 ⭐
-- [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, and focus features to boost your productivity. 🪟 🟢
+- [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, & more to boost your productivity. 🪟 🟢
 
 ### Audio Players
 
@@ -132,16 +132,15 @@
 ### Email Clients
 
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron-based desktop client for ProtonMail. 🪟 🍎 🐧 🟢
+- [Eppie Mail](https://github.com/Eppie-io/Eppie-App) - Open-source email client with local AI agents and full support for Gmail, Outlook, and Proton Mail. 🪟 🍎 🐧 🟢
 - [Mailspring](https://getmailspring.com) - Beautiful, fast email client. 🪟 🍎 🐧 🟢
 - [ThunderBird](https://thunderbird.net) - Email client for easier management. 🪟 🍎 🐧 🟢
-
 
 ## Compression and Archiving
 
 - [7-Zip](https://7-zip.org/download.html) - Archive manager supporting 7z, ZIP, and other formats. 🪟 🟢 ⭐
 - [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Tool for tagging and organizing PDFs. 🍎 🟢
 - [PeaZip](https://peazip.github.io) - Archive manager supporting 180+ formats with encryption and compression. 🪟 🐧 🟢
-
 
 ## Customize
 
@@ -195,6 +194,7 @@
 - [HTTP Toolkit](https://httptoolkit.com) - Tool for debugging and mocking HTTP requests. 🪟 🍎 🐧 [🟢](https://github.com/httptoolkit)
 - [Mockoon](https://mockoon.com) - Desktop tool for creating and testing mock REST APIs. 🪟 🍎 🐧 [🟢](https://github.com/mockoon/mockoon)
 - [SoapUI Open Source](https://soapui.org) - For testing REST and SOAP APIs with scripting support. 🪟 🍎 🐧 [🟢](https://github.com/SmartBear/soapui)
+- [Yaak](https://yaak.app) - An offline and Git friendly API tester for HTTP, GraphQL, WebSockets, SSE, and gRPC. 🪟 🍎 🐧 [🟢](https://github.com/mountain-loop/yaak)
 
 ### Database
 
@@ -346,6 +346,7 @@
 
 - [KeePass](https://keepass.info) - Lightweight password manager for secure storage of passwords in encrypted databases. 🪟 🍎 🐧 🟢
 - [Passbolt](https://passbolt.com) - Team-oriented password manager for sharing and storing passwords securely. 🪟 🍎 🐧 🟢
+- [ProtonPass](https://proton.me/pass) - Free password manager with end-to-end encryption based in Switzerland. 🪟 🍎 🐧 [🟢](https://github.com/protonpass)
 
 ## Image Viewers
 
@@ -386,6 +387,7 @@
 - [Kaltura](https://kaltura.com) - Platform for managing and streaming video content. 🪟 🍎 🐧 🟢
 - [Nginx RTMP](https://github.com/arut/nginx-rtmp-module) - RTMP streaming server built with NGINX. 🐧 🟢
 - [Streamlabs Desktop](https://streamlabs.com) - Streaming software with customizable alerts and overlays. 🪟 🍎 🟢
+- [ScreenToGif](https://www.screentogif.com/) - Record, edit, and create animated GIFs from your screen. 🪟 [🟢](https://github.com/NickeManarin/ScreenToGif)
 
 ### Video Converters and Compressors
 
@@ -420,6 +422,7 @@
 - [Winpower](https://github.com/Axorax/winpower) - Advanced power settings and management for Windows. 🪟 🟢
 - [Windterm](https://github.com/kingToolbox/WindTerm) - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
 - [UniGetUI](https://www.marticliment.com/unigetui) - UI for popular package managers like  Winget, NPM, and more. 🪟 [🟢](https://github.com/marticliment/UniGetUI)
+- [Saga Reader](https://github.com/sopaco/saga-reader) - Blazing-Fast AI Reader that supports sources based on search engines and RSS. 🪟 🍎 [🟢](https://github.com/sopaco/saga-reader)
 
 ### Clipboard Management
 

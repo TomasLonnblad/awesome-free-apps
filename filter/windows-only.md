@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Friday, March 7, 2025 at 03:34:45 PM UTC -->
+<!-- AF-TOC : Sunday, June 29, 2025 at 09:55:20 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -90,7 +90,7 @@
 - [FXSound](https://fxsound.com) - Boost sound quality, volume, and bass. Has a beautiful modern UI. 🪟 🟢 ⭐
 - [JACK Audio](https://jackaudio.org) - Audio server for routing and mixing sound between programs. 🪟 🍎 🐧
 - [EarTrumpet](https://eartrumpet.app) - Advanced volume control for Windows, offering app-specific audio management. 🪟
-- [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, and focus features to boost your productivity. 🪟 🟢
+- [Ambie](https://github.com/jenius-apps/ambie) - Use white noise, nature sounds, & more to boost your productivity. 🪟 🟢
 
 ### Audio Players
 
@@ -98,7 +98,7 @@
 - [AIMP](https://aimp.ru) - Music player with a clean interface and powerful features. 🪟
 - [Audacious](https://github.com/audacious-media-player/audacious) - Lightweight audio player for simple music playback. 🪟 🐧 🟢
 - [Karafun](https://karafun.com) - Collection of karaoke songs across multiple genres. Play your own CDG files or use downloads from YouTube. 🪟
-- [MusicBee](https://getmusicbee.com) - Feature-rich music player and manager for Windows. 🪟
+- [MusicBee](https://getmusicbee.com) - Feature-rich music player and manager. 🪟
 - [Strawberry Music Player](https://strawberrymusicplayer.org) - Music player for organizing and playing your audio collection. 🪟 🍎 🐧
 
 ### Audio Recording
@@ -173,6 +173,7 @@
 - [BlueMail](https://bluemail.me/desktop) - Cross-platform email client with modern interface. 🪟 🍎 🐧
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, intuitive email client with smart features. 🪟 🍎 🐧
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron-based desktop client for ProtonMail. 🪟 🍎 🐧 🟢
+- [Eppie Mail](https://github.com/Eppie-io/Eppie-App) - Open-source email client with local AI agents and full support for Gmail, Outlook, and Proton Mail. 🪟 🍎 🐧 🟢
 - [eM Client](https://emclient.com) - Modern client to boost your productivity. 🪟
 - [Foxmail](https://www.foxmail.com) - Fast, user-friendly email client. 🪟 🍎
 - [Mailbird](https://mailbird.com) - IMAP/POP3 client with customization options. 🪟
@@ -180,10 +181,9 @@
 - [Nylas Mail](https://nylas.com/nylas-mail) - Extensible desktop email app based on web technologies. 🪟 🍎 🐧
 - [Postbox](https://postbox-inc.com) - Advanced email management with productivity focus. 🪟 🍎
 - [Polymail](https://polymail.io) - Simple, powerful email client with modern features. 🪟 🍎 🐧
-- [Wino Mail](https://apps.microsoft.com/detail/9ncrcvjc50wl?hl=en-US&gl=BD) - Fluent design email client with Mica effect. 🪟
+- [Wino Mail](https://apps.microsoft.com/detail/9ncrcvjc50wl?hl=en-US) - Fluent design email client with Mica effect. 🪟
 - [ThunderBird](https://thunderbird.net) - Email client for easier management. 🪟 🍎 🐧 🟢
 - [Tutanota](https://tutanota.com) - Encrypted service focused on privacy. 🪟 🍎 🐧
-
 
 ## Compression and Archiving
 
@@ -191,7 +191,6 @@
 - [Bandizip](https://bandisoft.com/bandizip) - Fast, lightweight archive manager with extensive format support. 🪟
 - [NanaZip](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-us&gl=US) - 7-Zip derivative optimized for Windows 10/11 with added functionality. 🪟
 - [PeaZip](https://peazip.github.io) - Archive manager supporting 180+ formats with encryption and compression. 🪟 🐧 🟢
-
 
 ## Customize
 
@@ -250,6 +249,7 @@
 - [Katalon Studio](https://katalon.com) - Testing automation for APIs, web, and mobile apps. 🪟 🍎 🐧
 - [Mockoon](https://mockoon.com) - Desktop tool for creating and testing mock REST APIs. 🪟 🍎 🐧 [🟢](https://github.com/mockoon/mockoon)
 - [SoapUI Open Source](https://soapui.org) - For testing REST and SOAP APIs with scripting support. 🪟 🍎 🐧 [🟢](https://github.com/SmartBear/soapui)
+- [Yaak](https://yaak.app) - An offline and Git friendly API tester for HTTP, GraphQL, WebSockets, SSE, and gRPC. 🪟 🍎 🐧 [🟢](https://github.com/mountain-loop/yaak)
 
 ### Database
 
@@ -486,6 +486,7 @@
 - [NordPass](https://nordpass.com) - Secure password manager with autofill and password health insights. 🪟 🍎 🐧
 - [Passbolt](https://passbolt.com) - Team-oriented password manager for sharing and storing passwords securely. 🪟 🍎 🐧 🟢
 - [RoboForm](https://roboform.com) - Password manager and form filler with multi-platform synchronization. 🪟 🍎 🐧
+- [ProtonPass](https://proton.me/pass) - Free password manager with end-to-end encryption based in Switzerland. 🪟 🍎 🐧 [🟢](https://github.com/protonpass)
 
 ## Image Viewers
 
@@ -537,7 +538,6 @@
 - [RealPlayer](https://real.com) - Versatile media player for playing videos and streaming. 🪟 🍎
 - [Stremio](https://stremio.com) - Provides a secure, modern and seamless entertainment experience. 🪟 🍎 🐧
 - [ScreenBox](https://apps.microsoft.com/detail/9ntsnmsvcb5l?hl=en-US&gl=US) - Basically VLC but with a modern UI. 🪟
-- [ScreenToGif](https://screentogif.com) - Screen recording software that allows you to capture GIFs and videos with customizable export options. 🪟
 - [SMPlayer](https://sourceforge.net/projects/smplayer) - Media player with the ability to remember playback settings and support for various video formats. 🪟 🍎 🐧
 - [Videotape](https://usuaia.com/videotape) - Simple and minimalist video player for quick playback of local video files. 🪟
 - [VLC Media Player](https://videolan.org/vlc) - Media player supporting almost all video formats. 🪟 🍎 🐧 🟢
@@ -552,6 +552,7 @@
 - [XSplit Broadcaster](https://xsplit.com) - Streaming and recording with advanced features and effects. 🪟
 - [Zoom](https://zoom.us) - Video meetings with streaming, recording, and screen sharing. 🪟 🍎 🐧
 - [Shadowplay](https://www.nvidia.com/en-ph/geforce/geforce-experience/shadowplay) - Record gameplay videos, screenshots, and livestreams. 🪟
+- [ScreenToGif](https://www.screentogif.com/) - Record, edit, and create animated GIFs from your screen. 🪟 [🟢](https://github.com/NickeManarin/ScreenToGif)
 
 ### Video Converters and Compressors
 
@@ -598,6 +599,7 @@
 - [Winpower](https://github.com/Axorax/winpower) - Advanced power settings and management for Windows. 🪟 🟢
 - [Windterm](https://github.com/kingToolbox/WindTerm) - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
 - [UniGetUI](https://www.marticliment.com/unigetui) - UI for popular package managers like  Winget, NPM, and more. 🪟 [🟢](https://github.com/marticliment/UniGetUI)
+- [Saga Reader](https://github.com/sopaco/saga-reader) - Blazing-Fast AI Reader that supports sources based on search engines and RSS. 🪟 🍎 [🟢](https://github.com/sopaco/saga-reader)
 
 ### Clipboard Management
 

@@ -25,7 +25,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Friday, March 7, 2025 at 03:34:45 PM UTC -->
+<!-- AF-TOC : Sunday, June 29, 2025 at 09:55:20 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -160,6 +160,7 @@
 - [CanaryMail](https://canarymail.io) - Secure email app with PGP support and AI assistance. 🍎 🐧
 - [Edison Mail](https://mail.edison.tech/mac) - Customizable, intuitive email client with smart features. 🪟 🍎 🐧
 - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron-based desktop client for ProtonMail. 🪟 🍎 🐧 🟢
+- [Eppie Mail](https://github.com/Eppie-io/Eppie-App) - Open-source email client with local AI agents and full support for Gmail, Outlook, and Proton Mail. 🪟 🍎 🐧 🟢
 - [Mailspring](https://getmailspring.com) - Beautiful, fast email client. 🪟 🍎 🐧 🟢
 - [Nylas Mail](https://nylas.com/nylas-mail) - Extensible desktop email app based on web technologies. 🪟 🍎 🐧
 - [Polymail](https://polymail.io) - Simple, powerful email client with modern features. 🪟 🍎 🐧
@@ -167,11 +168,9 @@
 - [ThunderBird](https://thunderbird.net) - Email client for easier management. 🪟 🍎 🐧 🟢
 - [Tutanota](https://tutanota.com) - Encrypted service focused on privacy. 🪟 🍎 🐧
 
-
 ## Compression and Archiving
 
 - [PeaZip](https://peazip.github.io) - Archive manager supporting 180+ formats with encryption and compression. 🪟 🐧 🟢
-
 
 ## Customize
 
@@ -212,6 +211,7 @@
 - [Katalon Studio](https://katalon.com) - Testing automation for APIs, web, and mobile apps. 🪟 🍎 🐧
 - [Mockoon](https://mockoon.com) - Desktop tool for creating and testing mock REST APIs. 🪟 🍎 🐧 [🟢](https://github.com/mockoon/mockoon)
 - [SoapUI Open Source](https://soapui.org) - For testing REST and SOAP APIs with scripting support. 🪟 🍎 🐧 [🟢](https://github.com/SmartBear/soapui)
+- [Yaak](https://yaak.app) - An offline and Git friendly API tester for HTTP, GraphQL, WebSockets, SSE, and gRPC. 🪟 🍎 🐧 [🟢](https://github.com/mountain-loop/yaak)
 
 ### Database
 
@@ -408,6 +408,7 @@
 - [NordPass](https://nordpass.com) - Secure password manager with autofill and password health insights. 🪟 🍎 🐧
 - [Passbolt](https://passbolt.com) - Team-oriented password manager for sharing and storing passwords securely. 🪟 🍎 🐧 🟢
 - [RoboForm](https://roboform.com) - Password manager and form filler with multi-platform synchronization. 🪟 🍎 🐧
+- [ProtonPass](https://proton.me/pass) - Free password manager with end-to-end encryption based in Switzerland. 🪟 🍎 🐧 [🟢](https://github.com/protonpass)
 
 ## Image Viewers
 
