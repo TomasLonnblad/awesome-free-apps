@@ -1,0 +1,31 @@
+{
+  "name": "awesome-free-apps",
+  "version": "1.0.0",
+  "description": "A curated list of awesome free applications",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js --all",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "categorize": "node index.js --categorize",
+    "format": "node index.js --format",
+    "links": "node index.js --links",
+    "toc": "node index.js --toc",
+    "analyze": "node index.js --analyze"
+  },
+  "keywords": [
+    "awesome",
+    "free",
+    "apps",
+    "software",
+    "tools"
+  ],
+  "author": "Axorax",
+  "license": "CC-BY-NC-SA-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Axorax/awesome-free-apps"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
